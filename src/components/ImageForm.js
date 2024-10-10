@@ -99,7 +99,7 @@ const ImageForm = () => {
               <fieldset>
                 <div className="mb-3">
                   <p className="mb-2">
-                    Upload 1 Image (Ring / Finger){" "}
+                    Upload 4 Image (Ring / Finger){" "}
                     <sup>
                       <i className="fa-solid fa-asterisk fa-sm AdAstric"></i>
                     </sup>
